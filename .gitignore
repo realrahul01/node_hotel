@@ -1,0 +1,5 @@
+# it ignore the file in git 
+
+
+node_modules/
+.env
